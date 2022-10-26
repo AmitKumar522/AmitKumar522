@@ -1,5 +1,5 @@
 
-![](https://img.freepik.com/premium-vector/web-development-programming-laptop-smartphone_73903-163.jpg?w=996)
+
 <h1 align="center">Hi 👋, I'm Amit Pandit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
