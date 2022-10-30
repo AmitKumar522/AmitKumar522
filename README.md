@@ -1,4 +1,4 @@
-
+![](https://static.vecteezy.com/system/resources/previews/000/344/684/original/programming-code-on-laptop-banner-vector-flat-illustration.jpg)
 
 <h1 align="center">Hi 👋, I'm Amit Pandit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
