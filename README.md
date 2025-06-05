@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amit Pandit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar522&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar522" /> </p>
 
