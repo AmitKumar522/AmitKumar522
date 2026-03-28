@@ -4,13 +4,9 @@
 
 ![](https://media.tenor.com/YBOb7duDMloAAAAi/sticker-busy.gif)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Data Analytics With AI**
 
 - 👨‍💻 All of my projects are available at [https://www.findcoder.io/u/amitkumar](https://www.findcoder.io/u/amitkumar)
-
-- 📝 I regularly write articles on [https://hashnode.com/@Amitzzz](https://hashnode.com/@Amitzzz)
-
-- 💬 Ask me about **HTML, CSS, TAILWIND, JAVASCRIPT,REACTJS**
 
 - 📫 How to reach me **amitkumarpandit727@gmail.com**
 
